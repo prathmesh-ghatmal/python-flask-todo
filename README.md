@@ -152,7 +152,7 @@ You can easily move your Flask app to a Linux machine or VM (e.g., VirtualBox Ub
 1. Open **Terminal** inside the project directory:
 
    ```bash
-   cd /home/imcc/flaskapp
+   cd /home/imcc/python-flask-todo
    ```
 
 2. **Create new virtual environment:**
